@@ -1,21 +1,11 @@
 {
   "embeddings": [{
-      "tensorName": "all",
-      "tensorShape": [
-        500,
-        500
-      ],
-      "tensorPath": "oss_data/embeddings.tsv",
-      "metadataPath": "oss_data/embeddings_meta.tsv"
-    },
-    {
-      "tensorName": "order_hyokacnt",
-      "tensorShape": [
-        500,
-        500
-      ],
-      "tensorPath": "oss_data/hyokacnt_embeddings.tsv",
-      "metadataPath": "oss_data/hyokacnt_embeddings_meta.tsv"
-    },
-  ]
+    "tensorName": "order_hyokacnt",
+    "tensorShape": [
+      500,
+      500
+    ],
+    "tensorPath": "oss_data/hyokacnt_embeddings.tsv",
+    "metadataPath": "oss_data/hyokacnt_embeddings_meta.tsv"
+  }]
 }
