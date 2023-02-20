@@ -1,22 +1,11 @@
 {
   "embeddings": [{
-      "tensorName": "order_hyokacnt",
-      "tensorShape": [
-        1050,
-        768
-      ],
-      "tensorPath": "oss_data/hyokacnt_embeddings.tsv",
-      "metadataPath": "oss_data/hyokacnt_embeddings_meta.tsv"
-    },
-    {
-      "tensorName": "order_monthly",
-      "tensorShape": [
-        1050,
-        768
-      ],
-      "tensorPath": "oss_data/monthly_userid_genre_embeddings.tsv",
-      "metadataPath": "oss_data/monthly_userid_genre_embeddings_meta.tsv"
-    }
-
-  ]
+    "tensorName": "order_monthly",
+    "tensorShape": [
+      1050,
+      768
+    ],
+    "tensorPath": "oss_data/monthly_userid_genre_embeddings.tsv",
+    "metadataPath": "oss_data/monthly_userid_genre_embeddings_meta.tsv"
+  }]
 }
