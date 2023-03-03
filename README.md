@@ -40,5 +40,8 @@
 ## 例
 ![genjitu_renai](images/genjitu_renai.png)
 ![isekai_renai](images/isekai_renai.png)
+現実世界(恋愛)と異世界(恋愛)はそれぞれ分散が小さく、特徴空間上での近い。（恋愛という点で共通）
 ![junbungaku](images/junbungaku.png)
+対称的に純文学は分散が大きい
 ![rekishi](images/rekishi.png)
+歴史はかなり分散が小さい
