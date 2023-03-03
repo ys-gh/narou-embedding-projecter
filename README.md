@@ -38,7 +38,7 @@
 2. 実験的に月間評価数と、通算評価数が高いユーザを1000件ほどのみ対象
 
 ## 例
-(images/genjitu_renai.png)
+![test](images/genjitu_renai.png)
 (images/isekai_renai.png)
 (images/junbungaku.png)
 (images/rekishi.png)
