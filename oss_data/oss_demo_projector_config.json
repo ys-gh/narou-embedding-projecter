@@ -1,15 +1,6 @@
 {
-  "embeddings": [{
-      "tensorName": "monthly1",
-      "tensorShape": [
-        1050,
-        768
-      ],
-      "tensorPath": "oss_data/monthly_userid_genre_embeddings.tsv",
-      "metadataPath": "oss_data/monthly_userid_genre_embeddings_meta.tsv"
-    },
     {
-      "tensorName": "monthly2",
+      "tensorName": "monthly",
       "tensorShape": [
         1050,
         768
