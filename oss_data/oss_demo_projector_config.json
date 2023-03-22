@@ -1,5 +1,5 @@
 {
-    {
+  "embeddings": [{
       "tensorName": "monthly",
       "tensorShape": [
         1050,

@@ -27,7 +27,7 @@
 ## 仕様
 - ベースモデル: 東北大BERT
 - fine turning: なろうAPIによって取得したデータ
-- 埋め込み: CLS
+- 埋め込み: [CLS]
 
 ## 課題
 1. 学習に使用できるデータが制限されてしまう
@@ -45,7 +45,7 @@
 - 純文学
 - 歴史
 
-### 現実世界(恋愛)
+## 評価
 ![genjitu_renai](images/genjitu_renai.png)
 ### 異世界(恋愛)
 ![isekai_renai](images/isekai_renai.png)
