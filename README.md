@@ -46,6 +46,7 @@
 - 歴史
 
 ## 評価
+### 現実世界(恋愛)
 ![genjitu_renai](images/genjitu_renai.png)
 ### 異世界(恋愛)
 ![isekai_renai](images/isekai_renai.png)
@@ -59,7 +60,7 @@
 ![rekishi](images/rekishi.png)
 最後に歴史は以上に小さい事が分かる。確かに歴史はなんとなく好き好みが分かれる気がする。。。
 
-## furter work
+## future work
 やるかは不明だが、とりあえず書き留めておく。
 - 小説全体の埋め込み(API制限などもあったため、今回は1000件ほどに絞ってしまった)
 - webアプリ化(Flask?)
